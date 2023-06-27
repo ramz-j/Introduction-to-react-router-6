@@ -15,9 +15,9 @@ a {
   color: unset;
 }
 
-body::-webkit-scrollbar {
-  /* display: none; */
-}
+/* body::-webkit-scrollbar {
+  display: none;
+} */
 
 body {
   -ms-overflow-style: none;
